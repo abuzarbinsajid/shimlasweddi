@@ -1,7 +1,7 @@
 // Predefined Guest List (Edit this array to add/remove guests. Names must match exactly.)
 const guests = [
-    "John Doe",  // Example guest - replace with real names
-    "Jane Smith",
+    "Abuzar Sajid",  // Example guest - replace with real names
+    "Mohd Sajid",
     // Add more like: "New Guest Name",
 ];
 
